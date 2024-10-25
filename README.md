@@ -5,11 +5,11 @@
 - **Languages**: React, TypeScript
 - **Package Manager**: Yarn
 
-![Alt text](/vending-machine-app/public/vending-machine-preview.png)
+![Alt text](/public/vending-machine-preview.png)
 
 ## Vending Machine Diagram
 
-![Alt text](/vending-machine-app/public/vending-machine-diagram.png)
+![Alt text](/public/vending-machine-diagram.png)
 
 ## How to Run the Project
 
