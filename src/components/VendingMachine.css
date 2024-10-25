@@ -1,0 +1,42 @@
+.vending-machine {
+  max-width: 500px;
+  height: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.drink-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.drink-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.drink-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.drink-button.active {
+  background-color: red; /* 금액이 충분한 경우 빨간색 활성화 */
+  color: white;
+}
+
+.cash-btn-group {
+  margin: auto;
+}
+
+.cash-btn-group button {
+  width: 150px;
+  margin: 2px;
+}
