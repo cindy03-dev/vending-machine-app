@@ -28,6 +28,9 @@
 
 ## Vending Machine Diagram
 
+[link to diagram](https://drive.google.com/file/d/1soizfoBf_we-F8E4AoVc_0C3by9mhcj6/view?usp=sharing)
+
+
 ![Alt text](/public/vending-machine-diagram.png)
 
 ## How to Run the Project
